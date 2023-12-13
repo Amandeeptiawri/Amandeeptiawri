@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amandeeptiawri
+- 👋 Hi, I’m Aman Deep Tiwari
 - 👀 I’m interested in Fronted and Backend
 - 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Sollution
 - 📫 This is my email id: amandeeptiawri@gmail.com
 
 
